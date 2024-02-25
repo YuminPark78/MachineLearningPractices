@@ -1,1 +1,1 @@
-here is a readme file
+This is a repository where I will be practicing the skills that I picked up from the Machine Learning Specialization Course offered by DeepLearning.AI joint with Stanford University on Coursera. Moreover, I intend to practice and familiarize myself with the features of jupyter notebook. 
